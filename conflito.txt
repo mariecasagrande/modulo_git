@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 olá mundo dos conflitos!
+=======
+olá, mundo dos conflitos
+>>>>>>> branch-b
